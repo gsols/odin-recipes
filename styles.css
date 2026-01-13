@@ -1,0 +1,27 @@
+.recipes-container {
+    max-width: 600px;
+    background-color: rgb(144, 158, 158);
+    margin: 0 auto;
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+.recipe-title {
+    color: white;
+    text-align: center;
+    border-bottom: #ffffff 2px solid;
+    border-top: #ffffff 2px solid;
+    padding: 14px 0;
+}
+
+li {
+    background-color: bisque;
+    margin-bottom: 4px;
+    padding: 8px;
+    list-style: none;
+    text-align: center;
+}
+
+ul {
+    padding: 0;
+}
